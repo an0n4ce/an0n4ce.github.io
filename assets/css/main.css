@@ -74,14 +74,17 @@ canvas {
   body {
     text-align: center;
   }
-  .header1 {
-    font-size: 9vw;
+    .header1 {
+    font-size: 8vw;
+  }
+  .header3 {
+    font-size: 6.5vw;
+  }
+  .header4 {
+    font-size: 6vw;
   }
   .header2 {
-    font-size: 2.5vw;
-  }
-  .link1 {
-    font-size: 5vw;
+    font-size: 4.5vw;
   }
 }
 
