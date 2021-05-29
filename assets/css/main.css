@@ -74,7 +74,7 @@ canvas {
   body {
     text-align: center;
   }
-    .header1 {
+  .header1 {
     font-size: 8vw;
   }
   .header3 {
@@ -89,6 +89,28 @@ canvas {
   .link1 {
     font-size: 4vw;
   }
+}
+
+@media screen and (min-width: 1224px){
+   body {
+    text-align: center;
+  }
+    .header1 {
+    font-size: 4.5vw;
+  }
+  .header3 {
+    font-size: 2.0vw;
+  }
+  .header4 {
+    font-size: 2.8vw;
+  }
+  .header2 {
+    font-size: 1.4vw;
+  }
+  .link1 {
+    font-size: 2.8vw;
+  } 
+  
 }
 
 @media screen and (min-width: 1390px) {
