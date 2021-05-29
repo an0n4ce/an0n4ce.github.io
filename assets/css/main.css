@@ -60,10 +60,10 @@ canvas {
     font-size: 4.5vw;
   }
   .header4 {
-    font-size: 4vw;
+    font-size: 3.4vw;
   }
   .header2 {
-    font-size: 2.4vw;
+    font-size: 2.8vw;
   }
   .link1 {
     font-size: 4vw;
@@ -81,15 +81,15 @@ canvas {
     font-size: 4.5vw;
   }
   .header4 {
-    font-size: 4vw;
+    font-size: 3.4vw;
   }
   .header2 {
-    font-size: 2.4vw;
+    font-size: 2.8vw;
   }
 }
 
 @media screen and (min-width: 1390px) {
   .header2 {
-    font-size: 1.2vw;
+    font-size: 2.0vw;
   }
 }
