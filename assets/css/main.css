@@ -57,7 +57,13 @@ canvas {
     font-size: 8vw;
   }
   .header3 {
-    font-size: 7.2vw;
+    font-size: 6.5vw;
+  }
+  .header4 {
+    font-size: 6vw;
+  }
+  .header2 {
+    font-size: 4.5vw;
   }
   .link1 {
     font-size: 4vw;
